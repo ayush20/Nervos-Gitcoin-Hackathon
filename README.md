@@ -22,3 +22,9 @@ https://github.com/ayush20/Nervos-Gitcoin-Hackathon/tree/main/2-deploy-a-simple-
 ```
 https://github.com/ayush20/Nervos-Gitcoin-Hackathon/tree/main/3-issue-a-smart-contract-call-to-the-deployed-smart-contract
 ```
+
+### 4. Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
+
+```
+https://github.com/ayush20/Nervos-Gitcoin-Hackathon/tree/main/4-issue-an-sudt-token-on-layer-1-and-deposit-it-to-layer-2
+```
