@@ -3,11 +3,16 @@
 ### 0. Setup A Local CKB Node And CKB Indexer For The Testnet
 
 ```
-Link : https://github.com/ayush20/Nervos-Gitcoin-Hackathon/tree/main/0-setup-local-ckb-node-and-ckb-indexer-for-testnet
+https://github.com/ayush20/Nervos-Gitcoin-Hackathon/tree/main/0-setup-local-ckb-node-and-ckb-indexer-for-testnet
 ```
 
 ### 1. Create A Godwoken Account On The EVM Layer 2 Testnet
 
 ```
-Link : https://github.com/ayush20/Nervos-Gitcoin-Hackathon/tree/main/1-create-a-godwoken-account-on-the-evm-layer-2-testnet
+https://github.com/ayush20/Nervos-Gitcoin-Hackathon/tree/main/1-create-a-godwoken-account-on-the-evm-layer-2-testnet
+```
+
+### 2. Deploy a Simple Ethereum smart contract on Polyjuice 
+```
+https://github.com/ayush20/Nervos-Gitcoin-Hackathon/tree/main/2-deploy-a-simple-ethereum-smart-contract-on-polyjuice
 ```
