@@ -15,4 +15,4 @@ https://explorer.nervos.org/aggron/address/ckt1qyqygmzqh0ar074epz5tfk90y74eck4j6
 
 ## 3. Screenshot of the console output immediately after deposit is submitted to Layer 2
 
-![Alt text](deposit-ack.png "Deposit Ack")
+![Alt text](deposit-submit.png "Deposit Ack")
