@@ -1,4 +1,4 @@
-# Gitcoin 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
+# Deploy A Simple Ethereum Smart Contract On Polyjuice
 
 Description : https://gitcoin.co/issue/nervosnetwork/grants/3/100026209
 
