@@ -1,19 +1,13 @@
-# Gitcoin: 0) Setup A Local CKB Node And CKB Indexer For The Testnet
+# Gitcoin Hackathon :: Nervos - Broaden The Spectrum
 
-Description : https://gitcoin.co/issue/nervosnetwork/grants/1/100026176
-
-
-## 1. CKB Node
-
-![Alt text](account-list.png "Account List")
-
-
-## 2. Link to Account Explorer
+## Gitcoin: 0) Setup A Local CKB Node And CKB Indexer For The Testnet
 
 ```
-https://explorer.nervos.org/aggron/address/ckt1qyqygmzqh0ar074epz5tfk90y74eck4j6n4qpg5w9e
+Link : https://github.com/ayush20/Nervos-Gitcoin-Hackathon/tree/main/0-setup-local-ckb-node-and-ckb-indexer-for-testnet
 ```
 
-## 3. Screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2
+## Gitcoin: 1) Create A Godwoken Account On The EVM Layer 2 Testnet
 
-![Alt text](deposit-ack.png "Deposit Ack")
+```
+Link : https://github.com/ayush20/Nervos-Gitcoin-Hackathon/tree/main/1-create-a-godwoken-account-on-the-evm-layer-2-testnet
+```
