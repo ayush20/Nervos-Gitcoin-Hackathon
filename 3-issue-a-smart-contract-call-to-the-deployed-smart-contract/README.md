@@ -1,6 +1,6 @@
-# Gitcoin: 3) Issue A Smart Contract Call To The Deployed Smart Contract
+# Issue A Smart Contract Call To The Deployed Smart Contract
 
-Description : https://gitcoin.co/issue/nervosnetwork/grants/3/100026209
+Description : https://gitcoin.co/issue/nervosnetwork/grants/4/100026210
 
 ## Screenshot of the console output immediately after smart contract call is issued.
 
