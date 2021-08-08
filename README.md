@@ -16,3 +16,9 @@ https://github.com/ayush20/Nervos-Gitcoin-Hackathon/tree/main/1-create-a-godwoke
 ```
 https://github.com/ayush20/Nervos-Gitcoin-Hackathon/tree/main/2-deploy-a-simple-ethereum-smart-contract-on-polyjuice
 ```
+
+### 3. Issue A Smart Contract Call To The Deployed Smart Contract
+
+```
+https://github.com/ayush20/Nervos-Gitcoin-Hackathon/tree/main/3-issue-a-smart-contract-call-to-the-deployed-smart-contract
+```
