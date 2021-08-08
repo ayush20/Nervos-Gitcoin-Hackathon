@@ -1,4 +1,4 @@
-# Gitcoin: 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
+# Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
 
 Description : https://gitcoin.co/issue/nervosnetwork/grants/5/100026211
 
