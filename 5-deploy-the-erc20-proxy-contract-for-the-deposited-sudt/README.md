@@ -1,5 +1,6 @@
 # Deploy The ERC20 Proxy Contract For The Deposited SUDT
 
+Description : https://gitcoin.co/issue/nervosnetwork/grants/6/100026212
 
 ## Screenshot after deploying Contract
 
