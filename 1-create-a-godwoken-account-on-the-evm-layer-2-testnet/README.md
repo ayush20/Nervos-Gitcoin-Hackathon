@@ -1,4 +1,4 @@
-# Gitcoin: 1) Create A Godwoken Account On The EVM Layer 2 Testnet
+# Create A Godwoken Account On The EVM Layer 2 Testnet
 
 Link : https://gitcoin.co/issue/nervosnetwork/grants/2/100026208#task-submission
 
